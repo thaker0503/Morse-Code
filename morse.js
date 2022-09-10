@@ -36,3 +36,11 @@ function decode(e) {
     }
     document.getElementById("output2").innerHTML = `The decoded string is : ${decodedString}`;
 }
+
+
+
+// Object.keys(foo)
+//   .forEach(function eachKey(key) { 
+//     alert(key); // alerts key 
+//     alert(foo[key]); // alerts value
+//   });
